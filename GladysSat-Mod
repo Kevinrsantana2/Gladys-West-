@@ -7,7 +7,7 @@
 import io
 import json
 
-sat = pathToJSONDataFiles
+sat = json
 
 def readSat(sat, pathToJSONDataFiles):
 
